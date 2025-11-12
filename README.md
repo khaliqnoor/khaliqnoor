@@ -56,7 +56,7 @@ I believe in **learning by building** — experimenting with real projects and i
   </tr>
   <tr>
     <td><strong>Banaow.pk</strong></td>
-    <td>Construction material supplier platform with product catalog and order management system</td>
+    <td>Construction material supplier platform still working on and it is solving the real problem in my locality</td>
     <td>
       <code>React</code> <code>Node.js</code> <code>Express</code><br/>
       <code>MongoDB</code> <code>Tailwind CSS</code>
@@ -67,7 +67,7 @@ I believe in **learning by building** — experimenting with real projects and i
   </tr>
   <tr>
     <td><strong>Feedback Form</strong></td>
-    <td>Basic feedback collection system with CRUD operations and form validation</td>
+    <td>Basic feedback form with CRUD operations and form validation</td>
     <td>
       <code>React</code> <code>Node.js</code> <code>Express</code><br/>
       <code>MongoDB</code>
@@ -103,6 +103,6 @@ I believe in **learning by building** — experimenting with real projects and i
 
 *"Allah doesn't waste the effort of anyone who is trying sincerely. Not in dunya. Not in akhirah."*
 
-**Thanks for stopping by!** Feel free to explore my repos and reach out if you'd like to connect or collaborate. 💙
+**Thanks for stopping by!** Feel free to explore my repos and reach out if you'd like to connect or collaborate.
 
 </div>
