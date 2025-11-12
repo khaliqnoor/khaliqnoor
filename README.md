@@ -1,6 +1,6 @@
-# Hi there, I'm Khaliq 👋
+# Hi there, I'm Khaliq!
 
-I'm a **12th-grade student** passionate about **Full-Stack Web Development** and slowly diving into **AI/ML**.  
+A **12th-grade student** passionate about **Full-Stack Web Development** and slowly diving into **AI/ML**.  
 I believe in **learning by building** — experimenting with real projects and improving my skills step by step.
 
 ---
@@ -34,18 +34,51 @@ I believe in **learning by building** — experimenting with real projects and i
 - Learning **data structures and algorithms** alongside development
 
 ---
+📂 Featured Projects
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><strong>Nexi</strong></td>
+    <td>Full-stack social media platform with real-time features, authentication, and image management</td>
+    <td>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code><br/>
+      <code>Tailwind</code> <code>Clerk</code> <code>ImageKit</code> <code>Inngest</code>
+    </td>
+    <td>
+      <a href="https://nexi-bay.vercel.app">Live Demo</a><br/>
+      <a href="https://github.com/khaliqnoor/nexi">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Banaow.pk</strong></td>
+    <td>Construction material supplier platform with product catalog and order management system</td>
+    <td>
+      <code>React</code> <code>Node.js</code> <code>Express</code><br/>
+      <code>MongoDB</code> <code>Tailwind CSS</code>
+    </td>
+    <td>
+      <a href="https://github.com/khaliqnoor/Banao.pk">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Feedback Form</strong></td>
+    <td>Basic feedback collection system with CRUD operations and form validation</td>
+    <td>
+      <code>React</code> <code>Node.js</code> <code>Express</code><br/>
+      <code>MongoDB</code>
+    </td>
+    <td>
+      <a href="https://github.com/khaliqnoor/Feedback-Form">Code</a>
+    </td>
+  </tr>
+</table>
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-
-| **[Banaow.pk](https://github.com/khaliqnoor/Banao.pk)** | Construction material supplier platform  | React, Node.js, Express, MongoDB, Tailwind |
-| **[Nexi](https://nexi-bay.vercel.app)** | Full Stack Social Media App  | React, Node.js, Express, MongoDB, Tailwind, nodemailer, inngest, imagekit, clerk |
-| **[Feedback Form App](https://github.com/khaliqnoor/Feedback-Form)** | Basic Feedback Form | React, Node.js, Express, MongoDB |
-
-> 💡 More projects on the way as I continue learning and building!
-
+💡 More projects on the way as I continue learning and building!
 ---
 
 ## 📫 Let's Connect
