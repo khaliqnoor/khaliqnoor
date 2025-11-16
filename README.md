@@ -66,14 +66,14 @@ I believe in **learning by building** — experimenting with real projects and i
     </td>
   </tr>
   <tr>
-    <td><strong>Feedback Form</strong></td>
-    <td>Basic feedback form with CRUD operations and form validation</td>
+    <td><strong>Chess-Game</strong></td>
+    <td>A real time multi-player chess-game using ejs and js</td>
     <td>
-      <code>React</code> <code>Node.js</code> <code>Express</code><br/>
-      <code>MongoDB</code>
+      <code>ejs</code> <code>js</code> <code>frontend</code><br/>
+      <code>backend</code>
     </td>
     <td>
-      <a href="https://github.com/khaliqnoor/Feedback-Form">Code</a>
+      <a href="https://chess-game-production-a5d9.up.railway.app/">Live Demo</a>
     </td>
   </tr>
 </table>
